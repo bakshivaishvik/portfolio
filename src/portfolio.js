@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://docs.google.com/document/d/12v2ChAK3NjWK8fOo3Sx7N_VdUDTyxzIr/edit?usp=drive_link&ouid=110353621032586141324&rtpof=true&sd=true", // Set to empty to hide the button
+    "https://drive.google.com/file/d/18QgQ4vKNB0IeiAvmGkY7MCUnd-qDTknB/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -200,7 +200,7 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "Programming",
